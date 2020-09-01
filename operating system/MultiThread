@@ -1,0 +1,11 @@
+# 종류
+
+Mutex
+
+Semaphore
+
+Critical Section
+
+
+# 그외
+spin-lock
